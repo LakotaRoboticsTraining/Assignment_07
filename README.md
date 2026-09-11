@@ -129,7 +129,7 @@ Forgetting new - RobotBot bot; does not create an object yet
 
 You will build a `Game` class and use it from `Main`.
 
-### Challenge 1 â€” Fields, constructor, getters, toString
+### Challenge 1 - Fields, constructor, getters, toString
 
 Create class `Game` with private fields `name` (String), `year` (int), `type` (String).
 
@@ -137,11 +137,11 @@ Create class `Game` with private fields `name` (String), `year` (int), `type` (S
 - Getters: `getName()`, `getYear()`, `getType()`
 - `toString()` must include the name, year, and type
 
-### Challenge 2 â€” play method
+### Challenge 2 - play method
 
 Add `public void play()` that prints a message containing the word `play`.
 
-### Challenge 3 â€” Two objects in main
+### Challenge 3 - Two objects in main
 
 In `Main`:
 
