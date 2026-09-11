@@ -153,22 +153,23 @@ In `Main`:
 
 ## Check your understanding
 
-- What is the difference between a class and an object?
-```java
-What does new RobotBot() do?
-```
+1. <details>
+     <summary>What is the difference between a class and an object?</summary>
+     Class = blueprint; object = one instance built from it.
+   </details>
+2. <details>
+     <summary>What does `new RobotBot()` do?</summary>
+     Creates a new `RobotBot` object in memory (default constructor).
+   </details>
+3. <details>
+     <summary>Why does `bot.introduce()` need `bot.` in front?</summary>
+     `introduce` is an instance method - it runs on a specific object.
+   </details>
+4. <details>
+     <summary>If you have two `RobotBot` objects, do they share the same `name` field?</summary>
+     No. Each object has its own `name`.
+   </details>
 
-- Why does bot.introduce() need bot. in front?
-- If you have two RobotBot objects, do they share the same name field?
-Answers
-
-- Class = blueprint; object = one instance built from it.
-```java
-Creates a new RobotBot object in memory (default constructor).
-```
-
-- introduce is an instance method - it runs on a specific object.
-- No. Each object has its own name.
 ## Looking ahead
 
 In Lesson 8, you will write constructors so fields are set correctly when you call new, instead of assigning them one by one afterward.
