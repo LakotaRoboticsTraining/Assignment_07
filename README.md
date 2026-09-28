@@ -127,9 +127,9 @@ Forgetting new - RobotBot bot; does not create an object yet
 
 ## Try it yourself
 
-Edit `Game.java` and `Main.java` as described in the challenges.
+Edit `src/main/java/Game.java` and `src/main/java/Main.java` as described in the challenges.
 
-Do **not** edit `GameTest.java` - that file checks your work automatically when you open a pull request.
+Do **not** edit `src/test/java/GameTest.java` - that file checks your work automatically when you open a pull request.
 
 ### Challenge 1 - Fields, constructor, getters, toString
 
