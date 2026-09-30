@@ -127,7 +127,7 @@ Forgetting new - RobotBot bot; does not create an object yet
 
 ## Try it yourself
 
-> **Find your starter files:** In the file explorer, open `src` â†’ `main` â†’ `java`. Edit the existing `Game.java` and `Main.java` there.
+> **Find your starter files:** In the file explorer, open the `src` folder, then `main`, then `java`. Edit the existing `Game.java` and `Main.java` there.
 > Do **not** create new Java files at the top of the repo.
 
 Edit `src/main/java/Game.java` and `src/main/java/Main.java` as described in the challenges.
