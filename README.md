@@ -33,6 +33,10 @@ UML (Unified Modeling Language) class diagrams are a standard way to sketch a cl
 
 Visibility markers: `+` means public, `-` means private.
 
+Here is a UML class diagram for the `RobotBot` example you will see next. Notice the three boxes stacked in one rectangle, and the `-` / `+` visibility marks:
+
+![UML class diagram for RobotBot with class name, fields, and methods labeled](images/robotbot-uml-class-diagram.jpg)
+
 ## A tiny class: `RobotBot`
 
 Keep this in `RobotBot.java`. The file name must match the class name (Lesson 1 rule).
